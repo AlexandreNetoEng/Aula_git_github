@@ -1,0 +1,392 @@
+"";"CAT";"CLASSIF";"DESCRICAO";"DESCRABREV";"REFER";"EXCLUIDOS";"X";"LETRA";"NUMERO"
+"1";"A00";"";"Cólera";"A00   Colera";"";NA;NA;"A";0
+"2";"A01";"";"Febres tifóide e paratifóide";"A01   Febres tifoide e paratifoide";"";NA;NA;"A";1
+"3";"A02";"";"Outras infecções por Salmonella";"A02   Outr infecc p/Salmonella";"";NA;NA;"A";2
+"4";"A03";"";"Shiguelose";"A03   Shiguelose";"";NA;NA;"A";3
+"5";"A04";"";"Outras infecções intestinais bacterianas";"A04   Outr infecc intestinais bacter";"";NA;NA;"A";4
+"6";"A05";"";"Outras intoxicações alimentares bacterianas, não classificadas em outra parte";"A05   Outr intox alimentares bacter NCOP";"";NA;NA;"A";5
+"7";"A06";"";"Amebíase";"A06   Amebiase";"";NA;NA;"A";6
+"8";"A07";"";"Outras doenças intestinais por protozoários";"A07   Outr doenc intestinais p/protozoarios";"";NA;NA;"A";7
+"9";"A08";"";"Infecções intestinais virais, outras e as não especificadas";"A08   Infecc intestinais virais outr e as NE";"";NA;NA;"A";8
+"10";"A09";"";"Diarréia e gastroenterite de origem infecciosa presumível";"A09   Diarreia e gastroenterite orig infecc presum";"";NA;NA;"A";9
+"11";"A15";"";"Tuberculose respiratória, com confirmação bacteriológica e histológica";"A15   Tuberc respirat c/conf bacteriol e histolog";"";NA;NA;"A";15
+"12";"A16";"";"Tuberculose das vias respiratórias, sem confirmação bacteriológica ou histológica";"A16   Tuberc vias respirat s/conf bacter histol";"";NA;NA;"A";16
+"13";"A17";"+";"Tuberculose do sistema nervoso";"A17   Tuberc do sist nervoso";"";NA;NA;"A";17
+"14";"A18";"";"Tuberculose de outros órgãos";"A18   Tuberc de outr orgaos";"";NA;NA;"A";18
+"15";"A19";"";"Tuberculose miliar";"A19   Tuberc miliar";"";NA;NA;"A";19
+"16";"A20";"";"Peste";"A20   Peste";"";NA;NA;"A";20
+"17";"A21";"";"Tularemia";"A21   Tularemia";"";NA;NA;"A";21
+"18";"A22";"";"Carbúnculo";"A22   Carbunculo";"";NA;NA;"A";22
+"19";"A23";"";"Brucelose";"A23   Brucelose";"";NA;NA;"A";23
+"20";"A24";"";"Mormo e melioidose";"A24   Mormo e melioidose";"";NA;NA;"A";24
+"21";"A25";"";"Febres transmitidas por mordedura de rato";"A25   Febres transm p/mordedura de rato";"";NA;NA;"A";25
+"22";"A26";"";"Erisipelóide";"A26   Erisipeloide";"";NA;NA;"A";26
+"23";"A27";"";"Leptospirose";"A27   Leptospirose";"";NA;NA;"A";27
+"24";"A28";"";"Outras doenças bacterianas zoonóticas não classificadas em outra parte";"A28   Outr doenc bacter zoonoticas NCOP";"";NA;NA;"A";28
+"25";"A30";"";"Hanseníase [doença de Hansen] [lepra]";"A30   Hanseniase";"";NA;NA;"A";30
+"26";"A31";"";"Infecções devidas a outras micobactérias";"A31   Infecc dev outr micobacterias";"";NA;NA;"A";31
+"27";"A32";"";"Listeriose [listeríase]";"A32   Listeriose";"";NA;NA;"A";32
+"28";"A33";"";"Tétano do recém-nascido [neonatal]";"A33   Tetano do recem-nascido";"";NA;NA;"A";33
+"29";"A34";"";"Tétano obstétrico";"A34   Tetano obstetrico";"";NA;NA;"A";34
+"30";"A35";"";"Outros tipos de tétano";"A35   Outr tipos de tetano";"";NA;NA;"A";35
+"31";"A36";"";"Difteria";"A36   Difteria";"";NA;NA;"A";36
+"32";"A37";"";"Coqueluche";"A37   Coqueluche";"";NA;NA;"A";37
+"33";"A38";"";"Escarlatina";"A38   Escarlatina";"";NA;NA;"A";38
+"34";"A39";"";"Infecção meningogócica";"A39   Infecc meningogocica";"";NA;NA;"A";39
+"35";"A40";"";"Septicemia estreptocócica";"A40   Septicemia estreptococica";"";NA;NA;"A";40
+"36";"A41";"";"Outras septicemias";"A41   Outr septicemias";"";NA;NA;"A";41
+"37";"A42";"";"Actinomicose";"A42   Actinomicose";"";NA;NA;"A";42
+"38";"A43";"";"Nocardiose";"A43   Nocardiose";"";NA;NA;"A";43
+"39";"A44";"";"Bartonelose";"A44   Bartonelose";"";NA;NA;"A";44
+"40";"A46";"";"Erisipela";"A46   Erisipela";"";NA;NA;"A";46
+"41";"A48";"";"Outras doenças bacterianas não classificadas em outra parte";"A48   Outr doenc bacter NCOP";"";NA;NA;"A";48
+"42";"A49";"";"Infecção bacteriana de localização não especificada";"A49   Infecc bacter de localiz NE";"";NA;NA;"A";49
+"43";"A50";"";"Sífilis congênita";"A50   Sifilis congen";"";NA;NA;"A";50
+"44";"A51";"";"Sífilis precoce";"A51   Sifilis precoce";"";NA;NA;"A";51
+"45";"A52";"";"Sífilis tardia";"A52   Sifilis tard";"";NA;NA;"A";52
+"46";"A53";"";"Outras formas e as não especificadas da sífilis";"A53   Outr form e as NE da sifilis";"";NA;NA;"A";53
+"47";"A54";"";"Infecção gonocócica";"A54   Infecc gonococica";"";NA;NA;"A";54
+"48";"A55";"";"Linfogranuloma (venéreo) por clamídia";"A55   Linfogranuloma p/clamidia";"";NA;NA;"A";55
+"49";"A56";"";"Outras infecções causadas por clamídias transmitidas por via sexual";"A56   Outr infecc p/clamidias transm p/via sexual";"";NA;NA;"A";56
+"50";"A57";"";"Cancro mole";"A57   Cancro mole";"";NA;NA;"A";57
+"51";"A58";"";"Granuloma inguinal";"A58   Granuloma inguinal";"";NA;NA;"A";58
+"52";"A59";"";"Tricomoníase";"A59   Tricomoniase";"";NA;NA;"A";59
+"53";"A60";"";"Infecções anogenitais pelo vírus do herpes [herpes simples]";"A60   Infecc anogenitais p/virus do herpes";"";NA;NA;"A";60
+"54";"A63";"";"Outras doenças de transmissão predominantemente sexual, não classificadas em outra parte";"A63   Outr doenc de transm predom sexual NCOP";"";NA;NA;"A";63
+"55";"A64";"";"Doenças sexualmente transmitidas, não especificadas";"A64   Doenc sexualmente transm NE";"";NA;NA;"A";64
+"56";"A65";"";"Sífilis não-venérea";"A65   Sifilis nao-venerea";"";NA;NA;"A";65
+"57";"A66";"";"Bouba";"A66   Bouba";"";NA;NA;"A";66
+"58";"A67";"";"Pinta [carate]";"A67   Pinta";"";NA;NA;"A";67
+"59";"A68";"";"Febres recorrentes [Borrelioses]";"A68   Febres recorrentes";"";NA;NA;"A";68
+"60";"A69";"";"Outras infecções por espiroquetas";"A69   Outr infecc p/espiroquetas";"";NA;NA;"A";69
+"61";"A70";"";"Infecções causadas por Clamídia psittaci";"A70   Infecc causadas p/Clamidia psittaci";"";NA;NA;"A";70
+"62";"A71";"";"Tracoma";"A71   Tracoma";"";NA;NA;"A";71
+"63";"A74";"";"Outras doenças causadas por Clamídias";"A74   Outr doenc causadas p/Clamidias";"";NA;NA;"A";74
+"64";"A75";"";"Tifo exantemático";"A75   Tifo exantematico";"";NA;NA;"A";75
+"65";"A77";"";"Febre maculosa [rickettsioses transmitidas por carrapatos]";"A77   Febre maculosa";"";NA;NA;"A";77
+"66";"A78";"";"Febre Q";"A78   Febre Q";"";NA;NA;"A";78
+"67";"A79";"";"Outras rickettsioses";"A79   Outr rickettsioses";"";NA;NA;"A";79
+"68";"A80";"";"Poliomielite aguda";"A80   Poliomielite aguda";"";NA;NA;"A";80
+"69";"A81";"";"Infecções por vírus atípicos do sistema nervoso central";"A81   Infecc p/virus atipicos sist nervoso central";"";NA;NA;"A";81
+"70";"A82";"";"Raiva";"A82   Raiva";"";NA;NA;"A";82
+"71";"A83";"";"Encefalite por vírus transmitidos por mosquitos";"A83   Encefalite p/virus transm p/mosquitos";"";NA;NA;"A";83
+"72";"A84";"";"Encefalite por vírus transmitido por carrapatos";"A84   Encefalite p/virus transm p/carrapatos";"";NA;NA;"A";84
+"73";"A85";"";"Outras encefalites virais, não classificadas em outra parte";"A85   Outr encefalites virais NCOP";"";NA;NA;"A";85
+"74";"A86";"";"Encefalite viral, não especificada";"A86   Encefalite viral NE";"";NA;NA;"A";86
+"75";"A87";"";"Meningite viral";"A87   Meningite viral";"";NA;NA;"A";87
+"76";"A88";"";"Outras infecções virais do sistema nervoso central não classificadas em outra parte";"A88   Outr infecc virais sist nervoso central NCOP";"";NA;NA;"A";88
+"77";"A89";"";"Infecções virais não especificadas do sistema nervoso central";"A89   Infecc virais NE do sist nervoso central";"";NA;NA;"A";89
+"78";"A90";"";"Dengue [dengue clássico]";"A90   Dengue";"";NA;NA;"A";90
+"79";"A91";"";"Febre hemorrágica devida ao vírus do dengue";"A91   Febre hemorragica dev virus do dengue";"";NA;NA;"A";91
+"80";"A92";"";"Outras febres virais transmitidas por mosquitos";"A92   Outr febres virais transm p/mosquitos";"";NA;NA;"A";92
+"81";"A93";"";"Outras febres por vírus transmitidas por artrópodes não classificadas em outra parte";"A93   Outr febres p/virus transm p/artropodes NCOP";"";NA;NA;"A";93
+"82";"A94";"";"Febre viral transmitida por artrópodes, não especificada";"A94   Febre viral transm p/artropodes NE";"";NA;NA;"A";94
+"83";"A95";"";"Febre amarela";"A95   Febre amarela";"";NA;NA;"A";95
+"84";"A96";"";"Febre hemorrágica por arenavírus";"A96   Febre hemorragica p/arenavirus";"";NA;NA;"A";96
+"85";"A98";"";"Outras febres hemorrágicas por vírus, não classificadas em outra parte";"A98   Outr febres hemorragicas p/virus NCOP";"";NA;NA;"A";98
+"86";"A99";"";"Febres hemorrágicas virais não especificadas";"A99   Febres hemorragicas virais NE";"";NA;NA;"A";99
+"87";"B00";"";"Infecções pelo vírus do herpes [herpes simples]";"B00   Infecc p/virus do herpes";"";NA;NA;"B";0
+"88";"B01";"";"Varicela [Catapora]";"B01   Varicela";"";NA;NA;"B";1
+"89";"B02";"";"Herpes zoster [Zona]";"B02   Herpes zoster";"";NA;NA;"B";2
+"90";"B03";"";"Varíola";"B03   Variola";"";NA;NA;"B";3
+"91";"B04";"";"Varíola dos macacos [Monkeypox]";"B04   Variola dos macacos";"";NA;NA;"B";4
+"92";"B05";"";"Sarampo";"B05   Sarampo";"";NA;NA;"B";5
+"93";"B06";"";"Rubéola";"B06   Rubeola";"";NA;NA;"B";6
+"94";"B07";"";"Verrugas de origem viral";"B07   Verrugas orig viral";"";NA;NA;"B";7
+"95";"B08";"";"Outras infecções virais caracterizadas por lesões da pele e das membranas mucosas, não classificadas em outra parte";"B08   Outr inf virais lesoes pele membr muc NCOP";"";NA;NA;"B";8
+"96";"B09";"";"Infecção viral não especificada caracterizada por lesões da pele e membranas mucosas";"B09   Inf viral NE caract p/lesoes pele membr muco";"";NA;NA;"B";9
+"97";"B15";"";"Hepatite aguda A";"B15   Hepatite aguda A";"";NA;NA;"B";15
+"98";"B16";"";"Hepatite aguda B";"B16   Hepatite aguda B";"";NA;NA;"B";16
+"99";"B17";"";"Outras hepatites virais agudas";"B17   Outr hepatites virais agudas";"";NA;NA;"B";17
+"100";"B18";"";"Hepatite viral crônica";"B18   Hepatite viral cronica";"";NA;NA;"B";18
+"101";"B19";"";"Hepatite viral não especificada";"B19   Hepatite viral NE";"";NA;NA;"B";19
+"102";"B20";"";"Doença pelo vírus da imunodeficiência humana [HIV], resultando em doenças infecciosas e parasitárias";"B20   Doenc p/HIV result doenc infecc e parasit";"";NA;NA;"B";20
+"103";"B21";"";"Doença pelo vírus da imunodeficiência humana [HIV], resultando em neoplasias malignas";"B21   Doenc p/HIV result em neopl malig";"";NA;NA;"B";21
+"104";"B22";"";"Doença pelo vírus da imunodeficiência humana [HIV] resultando em outras doenças especificadas";"B22   Doenc p/HIV result em outr doenc espec";"";NA;NA;"B";22
+"105";"B23";"";"Doença pelo vírus da imunodeficiência humana [HIV] resultando em outras doenças";"B23   Doenc p/HIV result em outr doenc";"";NA;NA;"B";23
+"106";"B24";"";"Doença pelo vírus da imunodeficiência humana [HIV] não especificada";"B24   Doenc p/HIV NE";"";NA;NA;"B";24
+"107";"B25";"";"Doença por citomegalovírus";"B25   Doenc p/citomegalovirus";"";NA;NA;"B";25
+"108";"B26";"";"Caxumba [Parotidite epidêmica]";"B26   Caxumba";"";NA;NA;"B";26
+"109";"B27";"";"Mononucleose infecciosa";"B27   Mononucleose infecc";"";NA;NA;"B";27
+"110";"B30";"";"Conjuntivite viral";"B30   Conjuntivite viral";"";NA;NA;"B";30
+"111";"B33";"";"Outras doenças por vírus não classificada em outra parte";"B33   Outr doenc p/virus NCOP";"";NA;NA;"B";33
+"112";"B34";"";"Doenças por vírus, de localização não especificada";"B34   Doenc p/virus de localiz NE";"";NA;NA;"B";34
+"113";"B35";"";"Dermatofitose";"B35   Dermatofitose";"";NA;NA;"B";35
+"114";"B36";"";"Outras micoses superficiais";"B36   Outr micoses superf";"";NA;NA;"B";36
+"115";"B37";"";"Candidíase";"B37   Candidiase";"";NA;NA;"B";37
+"116";"B38";"";"Coccidioidomicose";"B38   Coccidioidomicose";"";NA;NA;"B";38
+"117";"B39";"";"Histoplasmose";"B39   Histoplasmose";"";NA;NA;"B";39
+"118";"B40";"";"Blastomicose";"B40   Blastomicose";"";NA;NA;"B";40
+"119";"B41";"";"Paracoccidioidomicose";"B41   Paracoccidioidomicose";"";NA;NA;"B";41
+"120";"B42";"";"Esporotricose";"B42   Esporotricose";"";NA;NA;"B";42
+"121";"B43";"";"Cromomicose e abscesso feomicótico";"B43   Cromomicose e abscesso feomicotico";"";NA;NA;"B";43
+"122";"B44";"";"Aspergilose";"B44   Aspergilose";"";NA;NA;"B";44
+"123";"B45";"";"Criptococose";"B45   Criptococose";"";NA;NA;"B";45
+"124";"B46";"";"Zigomicose";"B46   Zigomicose";"";NA;NA;"B";46
+"125";"B47";"";"Micetoma";"B47   Micetoma";"";NA;NA;"B";47
+"126";"B48";"";"Outras micoses, não classificadas em outra parte";"B48   Outr micoses NCOP";"";NA;NA;"B";48
+"127";"B49";"";"Micose não especificada";"B49   Micose NE";"";NA;NA;"B";49
+"128";"B50";"";"Malária por Plasmodium falciparum";"B50   Malaria p/Plasmodium falciparum";"";NA;NA;"B";50
+"129";"B51";"";"Malária por Plasmodium vivax";"B51   Malaria p/Plasmodium vivax";"";NA;NA;"B";51
+"130";"B52";"";"Malária por Plasmodium malariae";"B52   Malaria p/Plasmodium malariae";"";NA;NA;"B";52
+"131";"B53";"";"Outras formas de malária confirmadas por exames parasitológicos";"B53   Outr form malaria conf p/exames parasitolog";"";NA;NA;"B";53
+"132";"B54";"";"Malária não especificada";"B54   Malaria NE";"";NA;NA;"B";54
+"133";"B55";"";"Leishmaniose";"B55   Leishmaniose";"";NA;NA;"B";55
+"134";"B56";"";"Tripanossomíase africana";"B56   Tripanossomiase africana";"";NA;NA;"B";56
+"135";"B57";"";"Doença de Chagas";"B57   Doenc de Chagas";"";NA;NA;"B";57
+"136";"B58";"";"Toxoplasmose";"B58   Toxoplasmose";"";NA;NA;"B";58
+"137";"B59";"+";"Pneumocistose";"B59   Pneumocistose";"J17.3*";NA;NA;"B";59
+"138";"B60";"";"Outras doenças devidas a protozoários, não classificadas em outra parte";"B60   Outr doenc dev protozoarios NCOP";"";NA;NA;"B";60
+"139";"B64";"";"Doença não especificada devida a protozoários";"B64   Doenc NE dev protozoarios";"";NA;NA;"B";64
+"140";"B65";"";"Esquistossomose [bilharziose] [Schistosomíase]";"B65   Esquistossomose";"";NA;NA;"B";65
+"141";"B66";"";"Outras infestações por trematódeos";"B66   Outr infestacoes p/trematodeos";"";NA;NA;"B";66
+"142";"B67";"";"Equinococose";"B67   Equinococose";"";NA;NA;"B";67
+"143";"B68";"";"Infestação por Taenia";"B68   Infestacao p/Taenia";"";NA;NA;"B";68
+"144";"B69";"";"Cisticercose";"B69   Cisticercose";"";NA;NA;"B";69
+"145";"B70";"";"Difilobotríase e esparganose";"B70   Difilobotriase e esparganose";"";NA;NA;"B";70
+"146";"B71";"";"Outras infestações por cestóides";"B71   Outr infestacoes p/cestoides";"";NA;NA;"B";71
+"147";"B72";"";"Dracontíase";"B72   Dracontiase";"";NA;NA;"B";72
+"148";"B73";"";"Oncocercose";"B73   Oncocercose";"";NA;NA;"B";73
+"149";"B74";"";"Filariose";"B74   Filariose";"";NA;NA;"B";74
+"150";"B75";"";"Triquinose";"B75   Triquinose";"";NA;NA;"B";75
+"151";"B76";"";"Ancilostomíase";"B76   Ancilostomiase";"";NA;NA;"B";76
+"152";"B77";"";"Ascaridíase";"B77   Ascaridiase";"";NA;NA;"B";77
+"153";"B78";"";"Estrongiloidíase";"B78   Estrongiloidiase";"";NA;NA;"B";78
+"154";"B79";"";"Tricuríase";"B79   Tricuriase";"";NA;NA;"B";79
+"155";"B80";"";"Oxiuríase";"B80   Oxiuriase";"";NA;NA;"B";80
+"156";"B81";"";"Outras helmintíases intestinais, não classificadas em outra parte";"B81   Outr helmintiases intestinais NCOP";"";NA;NA;"B";81
+"157";"B82";"";"Parasitose intestinal não especificada";"B82   Parasitose intestinal NE";"";NA;NA;"B";82
+"158";"B83";"";"Outras helmintíases";"B83   Outr helmintiases";"";NA;NA;"B";83
+"159";"B85";"";"Pediculose e ftiríase";"B85   Pediculose e ftiriase";"";NA;NA;"B";85
+"160";"B86";"";"Escabiose [sarna]";"B86   Escabiose";"";NA;NA;"B";86
+"161";"B87";"";"Miíase";"B87   Miiase";"";NA;NA;"B";87
+"162";"B88";"";"Outras infestações";"B88   Outr infestacoes";"";NA;NA;"B";88
+"163";"B89";"";"Doença parasitária não especificada";"B89   Doenc parasit NE";"";NA;NA;"B";89
+"164";"B90";"";"Seqüelas de tuberculose";"B90   Sequelas de tuberc";"";NA;NA;"B";90
+"165";"B91";"";"Seqüelas de poliomielite";"B91   Sequelas de poliomielite";"";NA;NA;"B";91
+"166";"B92";"";"Seqüelas de hanseníase [lepra]";"B92   Sequelas de hanseniase";"";NA;NA;"B";92
+"167";"B94";"";"Seqüelas de outras doenças infecciosas e parasitárias e das não especificadas";"B94   Sequelas de outr doenc infecc e parasit e NE";"";NA;NA;"B";94
+"168";"B95";"";"Estreptococos e estafilococos como causa de doenças classificadas em outros capítulos";"B95   Estr/estafilococo causa doenc class outr cap";"";NA;NA;"B";95
+"169";"B96";"";"Outros agentes bacterianos, como causa de doenças classificadas em outros capítulos";"B96   Outr agent bacter causa doenc class outr cap";"";NA;NA;"B";96
+"170";"B97";"";"Vírus como causa de doenças classificadas em outros capítulos";"B97   Virus como doenc class outr cap";"";NA;NA;"B";97
+"171";"B99";"";"Doenças infecciosas, outras e as não especificadas";"B99   Doenc infecc outr e as NE";"";NA;NA;"B";99
+"172";"I00";"";"Febre reumática sem menção de comprometimento do coração";"I00   Febre reumatica s/mencao de compr do coracao";"";NA;NA;"I";0
+"173";"I01";"";"Febre reumática com comprometimento do coração";"I01   Febre reumatica c/compr do coracao";"";NA;NA;"I";1
+"174";"I02";"";"Coréia reumática";"I02   Coreia reumatica";"";NA;NA;"I";2
+"175";"I05";"";"Doenças reumáticas da valva mitral";"I05   Doenc reumaticas da valva mitral";"";NA;NA;"I";5
+"176";"I06";"";"Doenças reumáticas da valva aórtica";"I06   Doenc reumaticas da valva aortica";"";NA;NA;"I";6
+"177";"I07";"";"Doenças reumáticas da valva tricúspide";"I07   Doenc reumaticas da valva tricuspide";"";NA;NA;"I";7
+"178";"I08";"";"Doenças de múltiplas valvas";"I08   Doenc de mult valvas";"";NA;NA;"I";8
+"179";"I09";"";"Outras doenças reumáticas do coração";"I09   Outr doenc reumaticas do coracao";"";NA;NA;"I";9
+"180";"I10";"";"Hipertensão essencial (primária)";"I10   Hipertensao essencial";"";NA;NA;"I";10
+"181";"I11";"";"Doença cardíaca hipertensiva";"I11   Doenc cardiaca hipertensiva";"";NA;NA;"I";11
+"182";"I12";"";"Doença renal hipertensiva";"I12   Doenc renal hipertensiva";"";NA;NA;"I";12
+"183";"I13";"";"Doença cardíaca e renal hipertensiva";"I13   Doenc cardiaca e renal hipertensiva";"";NA;NA;"I";13
+"184";"I15";"";"Hipertensão secundária";"I15   Hipertensao secund";"";NA;NA;"I";15
+"185";"I20";"";"Angina pectoris";"I20   Angina pectoris";"";NA;NA;"I";20
+"186";"I21";"";"Infarto agudo do miocárdio";"I21   Infarto agudo do miocardio";"";NA;NA;"I";21
+"187";"I22";"";"Infarto do miocárdio recorrente";"I22   Infarto do miocardio recorrente";"";NA;NA;"I";22
+"188";"I23";"";"Algumas complicações atuais subseqüentes ao infarto agudo do miocárdio";"I23   Alg complic atuais subs infarto agud miocard";"";NA;NA;"I";23
+"189";"I24";"";"Outras doenças isquêmicas agudas do coração";"I24   Outr doenc isquemicas agudas do coracao";"";NA;NA;"I";24
+"190";"I25";"";"Doença isquêmica crônica do coração";"I25   Doenc isquemica cronica do coracao";"";NA;NA;"I";25
+"191";"I26";"";"Embolia pulmonar";"I26   Embolia pulmonar";"";NA;NA;"I";26
+"192";"I27";"";"Outras formas de doença cardíaca pulmonar";"I27   Outr form de doenc cardiaca pulmonar";"";NA;NA;"I";27
+"193";"I28";"";"Outras doenças dos vasos pulmonares";"I28   Outr doenc dos vasos pulmonares";"";NA;NA;"I";28
+"194";"I30";"";"Pericardite aguda";"I30   Pericardite aguda";"";NA;NA;"I";30
+"195";"I31";"";"Outras doenças do pericárdio";"I31   Outr doenc do pericardio";"";NA;NA;"I";31
+"196";"I32";"*";"Pericardite em doenças classificadas em outra parte";"I32   Pericardite em doenc COP";"";NA;NA;"I";32
+"197";"I33";"";"Endocardite aguda e subaguda";"I33   Endocardite aguda e subaguda";"";NA;NA;"I";33
+"198";"I34";"";"Transtornos não-reumáticos da valva mitral";"I34   Transt nao-reumaticos da valva mitral";"";NA;NA;"I";34
+"199";"I35";"";"Transtornos não-reumáticos da valva aórtica";"I35   Transt nao-reumaticos da valva aortica";"";NA;NA;"I";35
+"200";"I36";"";"Transtornos não-reumáticos da valva tricúspide";"I36   Transt nao-reumaticos da valva tricuspide";"";NA;NA;"I";36
+"201";"I37";"";"Transtornos da valva pulmonar";"I37   Transt da valva pulmonar";"";NA;NA;"I";37
+"202";"I38";"";"Endocardite de valva não especificada";"I38   Endocardite de valva NE";"";NA;NA;"I";38
+"203";"I39";"*";"Endocardite e transtornos valvulares cardíacos em doenças classificadas em outra parte";"I39   Endocardite transt valvulares card doenc COP";"";NA;NA;"I";39
+"204";"I40";"";"Miocardite aguda";"I40   Miocardite aguda";"";NA;NA;"I";40
+"205";"I41";"*";"Miocardite em doenças classificadas em outra parte";"I41   Miocardite em doenc COP";"";NA;NA;"I";41
+"206";"I42";"";"Cardiomiopatias";"I42   Cardiomiopatias";"";NA;NA;"I";42
+"207";"I43";"*";"Cardiomiopatia em doenças classificadas em outra parte";"I43   Cardiomiopatia em doenc COP";"";NA;NA;"I";43
+"208";"I44";"";"Bloqueio atrioventricular e do ramo esquerdo";"I44   Bloqueio atrioventricular e do ramo esquerdo";"";NA;NA;"I";44
+"209";"I45";"";"Outros transtornos de condução";"I45   Outr transt de conducao";"";NA;NA;"I";45
+"210";"I46";"";"Parada cardíaca";"I46   Parada cardiaca";"";NA;NA;"I";46
+"211";"I47";"";"Taquicardia paroxística";"I47   Taquicardia paroxistica";"";NA;NA;"I";47
+"212";"I48";"";"Flutter e fibrilação atrial";"I48   Flutter e fibrilacao atrial";"";NA;NA;"I";48
+"213";"I49";"";"Outras arritmias cardíacas";"I49   Outr arritmias cardiacas";"";NA;NA;"I";49
+"214";"I50";"";"Insuficiência cardíaca";"I50   Insuf cardiaca";"";NA;NA;"I";50
+"215";"I51";"";"Complicações de cardiopatias e doenças cardíacas mal definidas";"I51   Complic cardiopatias doenc cardiacas mal def";"";NA;NA;"I";51
+"216";"I52";"*";"Outras afecções cardíacas em doenças classificadas em outra parte";"I52   Outr afeccoes cardiacas em doenc COP";"";NA;NA;"I";52
+"217";"I60";"";"Hemorragia subaracnóide";"I60   Hemorragia subaracnoide";"";NA;NA;"I";60
+"218";"I61";"";"Hemorragia intracerebral";"I61   Hemorragia intracerebral";"";NA;NA;"I";61
+"219";"I62";"";"Outras hemorragias intracranianas não-traumáticas";"I62   Outr hemorragias intracranianas nao-traum";"";NA;NA;"I";62
+"220";"I63";"";"Infarto cerebral";"I63   Infarto cerebral";"";NA;NA;"I";63
+"221";"I64";"";"Acidente vascular cerebral, não especificado como hemorrágico ou isquêmico";"I64   Acid vasc cerebr NE como hemorrag isquemico";"";NA;NA;"I";64
+"222";"I65";"";"Oclusão e estenose de artérias pré-cerebrais que não resultam em infarto cerebral";"I65   Oclus/esten art pre-cereb q n res inf cereb";"";NA;NA;"I";65
+"223";"I66";"";"Oclusão e estenose de artérias cerebrais que não resultam em infarto cerebral";"I66   Oclusao/estenose art cereb q n res inf cereb";"";NA;NA;"I";66
+"224";"I67";"";"Outras doenças cerebrovasculares";"I67   Outr doenc cerebrovasculares";"";NA;NA;"I";67
+"225";"I68";"*";"Transtornos cerebrovasculares em doenças classificadas em outra parte";"I68   Transt cerebrovasculares em doenc COP";"";NA;NA;"I";68
+"226";"I69";"";"Seqüelas de doenças cerebrovasculares";"I69   Sequelas de doenc cerebrovasculares";"";NA;NA;"I";69
+"227";"I70";"";"Aterosclerose";"I70   Aterosclerose";"";NA;NA;"I";70
+"228";"I71";"";"Aneurisma e dissecção da aorta";"I71   Aneurisma e disseccao da aorta";"";NA;NA;"I";71
+"229";"I72";"";"Outros aneurismas";"I72   Outr aneurismas";"";NA;NA;"I";72
+"230";"I73";"";"Outras doenças vasculares periféricas";"I73   Outr doenc vasculares perifericas";"";NA;NA;"I";73
+"231";"I74";"";"Embolia e trombose arteriais";"I74   Embolia e trombose arteriais";"";NA;NA;"I";74
+"232";"I77";"";"Outras afecções das artérias e arteríolas";"I77   Outr afeccoes das arterias e arteriolas";"";NA;NA;"I";77
+"233";"I78";"";"Doenças dos capilares";"I78   Doenc dos capilares";"";NA;NA;"I";78
+"234";"I79";"*";"Transtornos das artérias, das arteríolas e dos capilares em doenças classificadas em outra parte";"I79   Transt arter arteriolas capilares doenc COP";"";NA;NA;"I";79
+"235";"I80";"";"Flebite e tromboflebite";"I80   Flebite e tromboflebite";"";NA;NA;"I";80
+"236";"I81";"";"Trombose da veia porta";"I81   Trombose da veia porta";"";NA;NA;"I";81
+"237";"I82";"";"Outra embolia e trombose venosas";"I82   Outr embolia e trombose venosas";"";NA;NA;"I";82
+"238";"I83";"";"Varizes dos membros inferiores";"I83   Varizes dos membros infer";"";NA;NA;"I";83
+"239";"I84";"";"Hemorróidas";"I84   Hemorroidas";"";NA;NA;"I";84
+"240";"I85";"";"Varizes esofagianas";"I85   Varizes esofagianas";"";NA;NA;"I";85
+"241";"I86";"";"Varizes de outras localizações";"I86   Varizes de outr localiz";"";NA;NA;"I";86
+"242";"I87";"";"Outros transtornos das veias";"I87   Outr transt das veias";"";NA;NA;"I";87
+"243";"I88";"";"Linfadenite inespecífica";"I88   Linfadenite inespecifica";"";NA;NA;"I";88
+"244";"I89";"";"Outros transtornos não-infecciosos dos vasos linfáticos e dos gânglios linfáticos";"I89   Outr transt nao-infecc vasos linf gangl linf";"";NA;NA;"I";89
+"245";"I95";"";"Hipotensão";"I95   Hipotensao";"";NA;NA;"I";95
+"246";"I97";"";"Transtornos do aparelho circulatório, subseqüentes a procedimentos não classificados em outra parte";"I97   Transt aparelho circulat subseq proced NCOP";"";NA;NA;"I";97
+"247";"I98";"*";"Outros transtornos do aparelho circulatório em doenças classificadas em outra parte";"I98   Outr transt aparelho circulatorio doenc COP";"";NA;NA;"I";98
+"248";"I99";"";"Outros transtornos do aparelho circulatório e os não especificados";"I99   Outr transt do aparelho circulatorio e os NE";"";NA;NA;"I";99
+"249";"J00";"";"Nasofaringite aguda [resfriado comum]";"J00   Nasofaringite aguda";"";NA;NA;"J";0
+"250";"J01";"";"Sinusite aguda";"J01   Sinusite aguda";"";NA;NA;"J";1
+"251";"J02";"";"Faringite aguda";"J02   Faringite aguda";"";NA;NA;"J";2
+"252";"J03";"";"Amigdalite aguda";"J03   Amigdalite aguda";"";NA;NA;"J";3
+"253";"J04";"";"Laringite e traqueíte agudas";"J04   Laringite e traqueite agudas";"";NA;NA;"J";4
+"254";"J05";"";"Laringite obstrutiva aguda [crupe] e epiglotite";"J05   Laringite obstrutiva aguda e epiglotite";"";NA;NA;"J";5
+"255";"J06";"";"Infecções agudas das vias aéreas superiores de localizações múltiplas e não especificadas";"J06   Infecc agudas vias aereas super loc mult NE";"";NA;NA;"J";6
+"256";"J09";"";"Influenza [gripe] devida a vírus identificado da gripe aviária";"J09   Influenza dev virus gripe aviária";"";NA;NA;"J";9
+"257";"J10";"";"Influenza devida a outro vírus da influenza [gripe] identificado";"J10   Influenza dev outro virus influenza ident";"";NA;NA;"J";10
+"258";"J11";"";"Influenza [gripe] devida a vírus não identificado";"J11   Influenza dev virus nao identificado";"";NA;NA;"J";11
+"259";"J12";"";"Pneumonia viral não classificada em outra parte";"J12   Pneumonia viral NCOP";"";NA;NA;"J";12
+"260";"J13";"";"Pneumonia devida a Streptococcus pneumoniae";"J13   Pneumonia dev Streptococcus pneumoniae";"";NA;NA;"J";13
+"261";"J14";"";"Pneumonia devida a Haemophilus infuenzae";"J14   Pneumonia dev Haemophilus infuenzae";"";NA;NA;"J";14
+"262";"J15";"";"Pneumonia bacteriana não classificada em outra parte";"J15   Pneumonia bacter NCOP";"";NA;NA;"J";15
+"263";"J16";"";"Pneumonia devida a outros microorganismos infecciosos especificados não classificados em outra parte";"J16   Pneumonia dev out microorg infecc espec NCOP";"";NA;NA;"J";16
+"264";"J17";"*";"Pneumonia em doenças classificadas em outra parte";"J17   Pneumonia em doenc COP";"";NA;NA;"J";17
+"265";"J18";"";"Pneumonia por microorganismo não especificada";"J18   Pneumonia p/microorg NE";"";NA;NA;"J";18
+"266";"J20";"";"Bronquite aguda";"J20   Bronquite aguda";"";NA;NA;"J";20
+"267";"J21";"";"Bronquiolite aguda";"J21   Bronquiolite aguda";"";NA;NA;"J";21
+"268";"J22";"";"Infecções agudas não especificada das vias aéreas inferiores";"J22   Infecc agudas NE das vias aereas infer";"";NA;NA;"J";22
+"269";"J30";"";"Rinite alérgica e vasomotora";"J30   Rinite alergica e vasomotora";"";NA;NA;"J";30
+"270";"J31";"";"Rinite, nasofaringite e faringite crônicas";"J31   Rinite nasofaringite e faringite cronicas";"";NA;NA;"J";31
+"271";"J32";"";"Sinusite crônica";"J32   Sinusite cronica";"";NA;NA;"J";32
+"272";"J33";"";"Pólipo nasal";"J33   Polipo nasal";"";NA;NA;"J";33
+"273";"J34";"";"Outros transtornos do nariz e dos seios paranasais";"J34   Outr transt do nariz e dos seios paranasais";"";NA;NA;"J";34
+"274";"J35";"";"Doenças crônicas das amígdalas e das adenóides";"J35   Doenc cronicas das amigdalas e das adenoides";"";NA;NA;"J";35
+"275";"J36";"";"Abscesso periamigdaliano";"J36   Abscesso periamigdaliano";"";NA;NA;"J";36
+"276";"J37";"";"Laringite e laringotraqueíte crônicas";"J37   Laringite e laringotraqueite cronicas";"";NA;NA;"J";37
+"277";"J38";"";"Doenças das cordas vocais e da laringe não classificadas em outra parte";"J38   Doenc das cordas vocais e da laringe NCOP";"";NA;NA;"J";38
+"278";"J39";"";"Outras doenças das vias aéreas superiores";"J39   Outr doenc das vias aereas super";"";NA;NA;"J";39
+"279";"J40";"";"Bronquite não especificada como aguda ou crônica";"J40   Bronquite NE como aguda ou cronica";"";NA;NA;"J";40
+"280";"J41";"";"Bronquite crônica simples e a mucopurulenta";"J41   Bronquite cronica simples e a mucopurulenta";"";NA;NA;"J";41
+"281";"J42";"";"Bronquite crônica não especificada";"J42   Bronquite cronica NE";"";NA;NA;"J";42
+"282";"J43";"";"Enfisema";"J43   Enfisema";"";NA;NA;"J";43
+"283";"J44";"";"Outras doenças pulmonares obstrutivas crônicas";"J44   Outr doenc pulmonares obstrutivas cronicas";"";NA;NA;"J";44
+"284";"J45";"";"Asma";"J45   Asma";"";NA;NA;"J";45
+"285";"J46";"";"Estado de mal asmático";"J46   Estado de mal asmatico";"";NA;NA;"J";46
+"286";"J47";"";"Bronquectasia";"J47   Bronquectasia";"";NA;NA;"J";47
+"287";"J60";"";"Pneumoconiose dos mineiros de carvão";"J60   Pneumoconiose dos mineiros de carvao";"";NA;NA;"J";60
+"288";"J61";"";"Pneumoconiose devida a amianto [asbesto] e outras fibras minerais";"J61   Pneumoconiose dev amianto outr fibr minerais";"";NA;NA;"J";61
+"289";"J62";"";"Pneumoconiose devida a poeira que contenham sílica";"J62   Pneumoconiose dev poeira que cont silica";"";NA;NA;"J";62
+"290";"J63";"";"Pneumoconiose devida a outras poeiras inorgânicas";"J63   Pneumoconiose dev outr poeiras inorganicas";"";NA;NA;"J";63
+"291";"J64";"";"Pneumoconiose não especificada";"J64   Pneumoconiose NE";"";NA;NA;"J";64
+"292";"J65";"";"Pneumoconiose associada com tuberculose";"J65   Pneumoconiose assoc c/tuberc";"";NA;NA;"J";65
+"293";"J66";"";"Doenças das vias aéreas devida a poeiras orgânicas específicas";"J66   Doenc das vias aereas dev poeiras org espec";"";NA;NA;"J";66
+"294";"J67";"";"Pneumonite de hipersensibilidade devida a poeiras orgânicas";"J67   Pneumonite hipersensibilid dev poeiras org";"";NA;NA;"J";67
+"295";"J68";"";"Afecções respiratórias devidas a inalação de produtos químicos, gases, fumaças e vapores";"J68   Afecc resp dev inal prod quim gas fumac vap";"";NA;NA;"J";68
+"296";"J69";"";"Pneumonite devida a sólidos e líquidos";"J69   Pneumonite dev solidos e liquidos";"";NA;NA;"J";69
+"297";"J70";"";"Afecções respiratórias devida a outros agentes externos";"J70   Afeccoes respirat dev outr agentes externos";"";NA;NA;"J";70
+"298";"J80";"";"Síndrome do desconforto respiratório do adulto";"J80   Sindr do desconforto respirat do adulto";"";NA;NA;"J";80
+"299";"J81";"";"Edema pulmonar, não especificado de outra forma";"J81   Edema pulmonar NE de outr form";"";NA;NA;"J";81
+"300";"J82";"";"Eosinofilia pulmonar, não classificada em outra parte";"J82   Eosinofilia pulmonar NCOP";"";NA;NA;"J";82
+"301";"J84";"";"Outras doenças pulmonares intersticiais";"J84   Outr doenc pulmonares intersticiais";"";NA;NA;"J";84
+"302";"J85";"";"Abscesso do pulmão e do mediastino";"J85   Abscesso do pulmao e do mediastino";"";NA;NA;"J";85
+"303";"J86";"";"Piotórax";"J86   Piotorax";"";NA;NA;"J";86
+"304";"J90";"";"Derrame pleural não classificado em outra parte";"J90   Derrame pleural NCOP";"";NA;NA;"J";90
+"305";"J91";"*";"Derrame pleural em afecções classificadas em outra parte";"J91   Derrame pleural em afeccoes COP";"";NA;NA;"J";91
+"306";"J92";"";"Placas pleurais";"J92   Placas pleurais";"";NA;NA;"J";92
+"307";"J93";"";"Pneumotórax";"J93   Pneumotorax";"";NA;NA;"J";93
+"308";"J94";"";"Outras afecções pleurais";"J94   Outr afeccoes pleurais";"";NA;NA;"J";94
+"309";"J95";"";"Afecções respiratórias pós-procedimentos não classificadas em outra parte";"J95   Afeccoes respirat pos-proced NCOP";"";NA;NA;"J";95
+"310";"J96";"";"Insuficiência respiratória não classificada de outra parte";"J96   Insuf respirat NCOP";"";NA;NA;"J";96
+"311";"J98";"";"Outros transtornos respiratórios";"J98   Outr transt respirat";"";NA;NA;"J";98
+"312";"J99";"*";"Transtornos respiratórios em doenças classificadas em outra parte";"J99   Transt respirat em doenc COP";"";NA;NA;"J";99
+"313";"M00";"";"Artrite piogênica";"M00   Artrite piogenica";"";NA;NA;"M";0
+"314";"M01";"*";"Infecções diretas da articulação em doenças infecciosas e parasitárias classificadas em outra parte";"M01   Infecc diretas artic doenc infec parasit COP";"";NA;NA;"M";1
+"315";"M02";"";"Artropatias reacionais";"M02   Artropatias reacionais";"";NA;NA;"M";2
+"316";"M03";"*";"Artropatias pós-infecciosas e reacionais em doenças infecciosas classificadas em outra parte";"M03   Artropatias pos-infecc reac doenc infecc COP";"";NA;NA;"M";3
+"317";"M05";"";"Artrite reumatóide soro-positiva";"M05   Artrite reumatoide soro-positiva";"";NA;NA;"M";5
+"318";"M06";"";"Outras artrites reumatóides";"M06   Outr artrites reumatoides";"";NA;NA;"M";6
+"319";"M07";"*";"Artropatias psoriásicas e enteropáticas";"M07   Artropatias psoriasicas e enteropaticas";"";NA;NA;"M";7
+"320";"M08";"";"Artrite juvenil";"M08   Artrite juvenil";"";NA;NA;"M";8
+"321";"M09";"*";"Artrite juvenil em doenças classificadas em outra parte";"M09   Artrite juvenil em doenc COP";"";NA;NA;"M";9
+"322";"M10";"";"Gota";"M10   Gota";"";NA;NA;"M";10
+"323";"M11";"";"Outras artropatias por deposição de cristais";"M11   Outr artropatias p/deposicao de cristais";"";NA;NA;"M";11
+"324";"M12";"";"Outras artropatias especificadas";"M12   Outr artropatias espec";"";NA;NA;"M";12
+"325";"M13";"";"Outras artrites";"M13   Outr artrites";"";NA;NA;"M";13
+"326";"M14";"*";"Artropatias em outras doenças classificadas em outra parte";"M14   Artropatias em outr doenc COP";"";NA;NA;"M";14
+"327";"M15";"";"Poliartrose";"M15   Poliartrose";"";NA;NA;"M";15
+"328";"M16";"";"Coxartrose [artrose do quadril]";"M16   Coxartrose";"";NA;NA;"M";16
+"329";"M17";"";"Gonartrose [artrose do joelho]";"M17   Gonartrose";"";NA;NA;"M";17
+"330";"M18";"";"Artrose da primeira articulação carpometacarpiana";"M18   Artrose prim articulacao carpometacarpiana";"";NA;NA;"M";18
+"331";"M19";"";"Outras artroses";"M19   Outr artroses";"";NA;NA;"M";19
+"332";"M20";"";"Deformidades adquiridas dos dedos das mãos e dos pés";"M20   Deform adquir dedos maos e pes";"";NA;NA;"M";20
+"333";"M21";"";"Outras deformidades adquiridas dos membros";"M21   Outr deform adquir dos membros";"";NA;NA;"M";21
+"334";"M22";"";"Transtornos da rótula [patela]";"M22   Transt da rotula";"";NA;NA;"M";22
+"335";"M23";"";"Transtornos internos dos joelhos";"M23   Transt internos dos joelhos";"";NA;NA;"M";23
+"336";"M24";"";"Outros transtornos articulares específicos";"M24   Outr transt articulares especificos";"";NA;NA;"M";24
+"337";"M25";"";"Outros transtornos articulares não classificados em outra parte";"M25   Outr transt articulares NCOP";"";NA;NA;"M";25
+"338";"M30";"";"Poliarterite nodosa e afecções correlatas";"M30   Poliarterite nodosa e afeccoes correlatas";"";NA;NA;"M";30
+"339";"M31";"";"Outras vasculopatias necrotizantes";"M31   Outr vasculopatias necrotizantes";"";NA;NA;"M";31
+"340";"M32";"";"Lúpus eritematoso disseminado [sistêmico]";"M32   Lupus eritematoso disseminado";"";NA;NA;"M";32
+"341";"M33";"";"Dermatopoliomiosite";"M33   Dermatopoliomiosite";"";NA;NA;"M";33
+"342";"M34";"";"Esclerose sistêmica";"M34   Esclerose sistemica";"";NA;NA;"M";34
+"343";"M35";"";"Outras afecções sistêmicas do tecido conjuntivo";"M35   Outr afeccoes sistemicas do tec conjuntivo";"";NA;NA;"M";35
+"344";"M36";"*";"Doenças sistêmicas do tecido conjuntivo em doenças classificadas em outra parte";"M36   Doenc sistemicas do tec conjuntivo doenc COP";"";NA;NA;"M";36
+"345";"M40";"";"Cifose e lordose";"M40   Cifose e lordose";"";NA;NA;"M";40
+"346";"M41";"";"Escoliose";"M41   Escoliose";"";NA;NA;"M";41
+"347";"M42";"";"Osteocondrose da coluna vertebral";"M42   Osteocondrose da coluna vertebral";"";NA;NA;"M";42
+"348";"M43";"";"Outras dorsopatias deformantes";"M43   Outr dorsopatias deformantes";"";NA;NA;"M";43
+"349";"M45";"";"Espondilite ancilosante";"M45   Espondilite ancilosante";"";NA;NA;"M";45
+"350";"M46";"";"Outras espondilopatias inflamatórias";"M46   Outr espondilopatias inflam";"";NA;NA;"M";46
+"351";"M47";"";"Espondilose";"M47   Espondilose";"";NA;NA;"M";47
+"352";"M48";"";"Outras espondilopatias";"M48   Outr espondilopatias";"";NA;NA;"M";48
+"353";"M49";"*";"Espondilopatias em doenças classificadas em outra parte";"M49   Espondilopatias em doenc COP";"";NA;NA;"M";49
+"354";"M50";"";"Transtornos dos discos cervicais";"M50   Transt dos discos cervicais";"";NA;NA;"M";50
+"355";"M51";"";"Outros transtornos de discos intervertebrais";"M51   Outr transt de discos intervertebrais";"";NA;NA;"M";51
+"356";"M53";"";"Outras dorsopatias não classificadas em outra parte";"M53   Outr dorsopatias NCOP";"";NA;NA;"M";53
+"357";"M54";"";"Dorsalgia";"M54   Dorsalgia";"";NA;NA;"M";54
+"358";"M60";"";"Miosite";"M60   Miosite";"";NA;NA;"M";60
+"359";"M61";"";"Calcificação e ossificação do músculo";"M61   Calcificacao e ossificacao do musculo";"";NA;NA;"M";61
+"360";"M62";"";"Outros transtornos musculares";"M62   Outr transt musculares";"";NA;NA;"M";62
+"361";"M63";"*";"Transtornos de músculo em doenças classificadas em outra parte";"M63   Transt de musculo em doenc COP";"";NA;NA;"M";63
+"362";"M65";"";"Sinovite e tenossinovite";"M65   Sinovite e tenossinovite";"";NA;NA;"M";65
+"363";"M66";"";"Ruptura espontânea de sinóvia e de tendão";"M66   Ruptura espontanea de sinovia e de tendao";"";NA;NA;"M";66
+"364";"M67";"";"Outros transtornos das sinóvias e dos tendões";"M67   Outr transt das sinovias e dos tendoes";"";NA;NA;"M";67
+"365";"M68";"*";"Transtorno de sinóvias e de tendões em doenças classificadas em outra parte";"M68   Transt de sinovias e de tendoes em doenc COP";"";NA;NA;"M";68
+"366";"M70";"";"Transtornos dos tecidos moles relacionados com o uso, uso excessivo e pressão";"M70   Transt tec moles relac uso excess e pressao";"";NA;NA;"M";70
+"367";"M71";"";"Outras bursopatias";"M71   Outr bursopatias";"";NA;NA;"M";71
+"368";"M72";"";"Transtornos fibroblásticos";"M72   Transt fibroblasticos";"";NA;NA;"M";72
+"369";"M73";"*";"Transtornos dos tecidos moles em doenças classificadas em outra parte";"M73   Transt dos tec moles em doenc COP";"";NA;NA;"M";73
+"370";"M75";"";"Lesões do ombro";"M75   Lesoes do ombro";"";NA;NA;"M";75
+"371";"M76";"";"Entesopatias dos membros inferiores, excluindo pé";"M76   Entesopatias dos membros infer excl pe";"";NA;NA;"M";76
+"372";"M77";"";"Outras entesopatias";"M77   Outr entesopatias";"";NA;NA;"M";77
+"373";"M79";"";"Outros transtornos dos tecidos moles, não classificados em outra parte";"M79   Outr transt dos tec moles NCOP";"";NA;NA;"M";79
+"374";"M80";"";"Osteoporose com fratura patológica";"M80   Osteoporose c/frat patologica";"";NA;NA;"M";80
+"375";"M81";"";"Osteoporose sem fratura patológica";"M81   Osteoporose s/frat patologica";"";NA;NA;"M";81
+"376";"M82";"*";"Osteoporose em doenças classificadas em outra parte";"M82   Osteoporose em doenc COP";"";NA;NA;"M";82
+"377";"M83";"";"Osteomalácia do adulto";"M83   Osteomalacia do adulto";"";NA;NA;"M";83
+"378";"M84";"";"Transtornos da continuidade do osso";"M84   Transt da continuidade do osso";"";NA;NA;"M";84
+"379";"M85";"";"Outros transtornos da densidade e da estrutura ósseas";"M85   Outr transt da densidade e estrutura osseas";"";NA;NA;"M";85
+"380";"M86";"";"Osteomielite";"M86   Osteomielite";"";NA;NA;"M";86
+"381";"M87";"";"Osteonecrose";"M87   Osteonecrose";"";NA;NA;"M";87
+"382";"M88";"";"Doença de Paget do osso (osteíte deformante)";"M88   Doenc de Paget do osso";"";NA;NA;"M";88
+"383";"M89";"";"Outros transtornos ósseos";"M89   Outr transt osseos";"";NA;NA;"M";89
+"384";"M90";"*";"Osteopatias em doenças classificadas em outra parte";"M90   Osteopatias em doenc COP";"";NA;NA;"M";90
+"385";"M91";"";"Osteocondrose juvenil do quadril e da pelve";"M91   Osteocondrose juvenil do quadril e da pelve";"";NA;NA;"M";91
+"386";"M92";"";"Outras osteocondroses juvenis";"M92   Outr osteocondroses juvenis";"";NA;NA;"M";92
+"387";"M93";"";"Outras osteocondropatias";"M93   Outr osteocondropatias";"";NA;NA;"M";93
+"388";"M94";"";"Outros transtornos das cartilagens";"M94   Outr transt das cartilagens";"";NA;NA;"M";94
+"389";"M95";"";"Outras deformidades adquiridas do sistema osteomuscular e do tecido conjuntivo";"M95   Outr deform adquir sist osteomusc tec conj";"";NA;NA;"M";95
+"390";"M96";"";"Transtornos osteomusculares pós-procedimentos não classificados em outra parte";"M96   Transt osteomusculares pos-proced NCOP";"";NA;NA;"M";96
+"391";"M99";"";"Lesões biomecânicas não classificadas em outra parte";"M99   Lesoes biomecanicas NCOP";"";NA;NA;"M";99

@@ -1,0 +1,55 @@
+"";"CAT";"CLASSIF";"DESCRICAO";"DESCRABREV";"REFER";"EXCLUIDOS";"X";"LETRA";"NUMERO"
+"1";"A15";"";"Tuberculose respiratória, com confirmação bacteriológica e histológica";"A15   Tuberc respirat c/conf bacteriol e histolog";"";NA;NA;"A";15
+"2";"A16";"";"Tuberculose das vias respiratórias, sem confirmação bacteriológica ou histológica";"A16   Tuberc vias respirat s/conf bacter histol";"";NA;NA;"A";16
+"3";"A17";"+";"Tuberculose do sistema nervoso";"A17   Tuberc do sist nervoso";"";NA;NA;"A";17
+"4";"A18";"";"Tuberculose de outros órgãos";"A18   Tuberc de outr orgaos";"";NA;NA;"A";18
+"5";"A19";"";"Tuberculose miliar";"A19   Tuberc miliar";"";NA;NA;"A";19
+"6";"J04";"";"Laringite e traqueíte agudas";"J04   Laringite e traqueite agudas";"";NA;NA;"J";4
+"7";"J05";"";"Laringite obstrutiva aguda [crupe] e epiglotite";"J05   Laringite obstrutiva aguda e epiglotite";"";NA;NA;"J";5
+"8";"J06";"";"Infecções agudas das vias aéreas superiores de localizações múltiplas e não especificadas";"J06   Infecc agudas vias aereas super loc mult NE";"";NA;NA;"J";6
+"9";"J09";"";"Influenza [gripe] devida a vírus identificado da gripe aviária";"J09   Influenza dev virus gripe aviária";"";NA;NA;"J";9
+"10";"J10";"";"Influenza devida a outro vírus da influenza [gripe] identificado";"J10   Influenza dev outro virus influenza ident";"";NA;NA;"J";10
+"11";"J11";"";"Influenza [gripe] devida a vírus não identificado";"J11   Influenza dev virus nao identificado";"";NA;NA;"J";11
+"12";"J12";"";"Pneumonia viral não classificada em outra parte";"J12   Pneumonia viral NCOP";"";NA;NA;"J";12
+"13";"J13";"";"Pneumonia devida a Streptococcus pneumoniae";"J13   Pneumonia dev Streptococcus pneumoniae";"";NA;NA;"J";13
+"14";"J14";"";"Pneumonia devida a Haemophilus infuenzae";"J14   Pneumonia dev Haemophilus infuenzae";"";NA;NA;"J";14
+"15";"J15";"";"Pneumonia bacteriana não classificada em outra parte";"J15   Pneumonia bacter NCOP";"";NA;NA;"J";15
+"16";"J16";"";"Pneumonia devida a outros microorganismos infecciosos especificados não classificados em outra parte";"J16   Pneumonia dev out microorg infecc espec NCOP";"";NA;NA;"J";16
+"17";"J17";"*";"Pneumonia em doenças classificadas em outra parte";"J17   Pneumonia em doenc COP";"";NA;NA;"J";17
+"18";"J18";"";"Pneumonia por microorganismo não especificada";"J18   Pneumonia p/microorg NE";"";NA;NA;"J";18
+"19";"J20";"";"Bronquite aguda";"J20   Bronquite aguda";"";NA;NA;"J";20
+"20";"J21";"";"Bronquiolite aguda";"J21   Bronquiolite aguda";"";NA;NA;"J";21
+"21";"J22";"";"Infecções agudas não especificada das vias aéreas inferiores";"J22   Infecc agudas NE das vias aereas infer";"";NA;NA;"J";22
+"22";"J39";"";"Outras doenças das vias aéreas superiores";"J39   Outr doenc das vias aereas super";"";NA;NA;"J";39
+"23";"J40";"";"Bronquite não especificada como aguda ou crônica";"J40   Bronquite NE como aguda ou cronica";"";NA;NA;"J";40
+"24";"J41";"";"Bronquite crônica simples e a mucopurulenta";"J41   Bronquite cronica simples e a mucopurulenta";"";NA;NA;"J";41
+"25";"J42";"";"Bronquite crônica não especificada";"J42   Bronquite cronica NE";"";NA;NA;"J";42
+"26";"J43";"";"Enfisema";"J43   Enfisema";"";NA;NA;"J";43
+"27";"J44";"";"Outras doenças pulmonares obstrutivas crônicas";"J44   Outr doenc pulmonares obstrutivas cronicas";"";NA;NA;"J";44
+"28";"J45";"";"Asma";"J45   Asma";"";NA;NA;"J";45
+"29";"J46";"";"Estado de mal asmático";"J46   Estado de mal asmatico";"";NA;NA;"J";46
+"30";"J47";"";"Bronquectasia";"J47   Bronquectasia";"";NA;NA;"J";47
+"31";"J60";"";"Pneumoconiose dos mineiros de carvão";"J60   Pneumoconiose dos mineiros de carvao";"";NA;NA;"J";60
+"32";"J61";"";"Pneumoconiose devida a amianto [asbesto] e outras fibras minerais";"J61   Pneumoconiose dev amianto outr fibr minerais";"";NA;NA;"J";61
+"33";"J62";"";"Pneumoconiose devida a poeira que contenham sílica";"J62   Pneumoconiose dev poeira que cont silica";"";NA;NA;"J";62
+"34";"J63";"";"Pneumoconiose devida a outras poeiras inorgânicas";"J63   Pneumoconiose dev outr poeiras inorganicas";"";NA;NA;"J";63
+"35";"J64";"";"Pneumoconiose não especificada";"J64   Pneumoconiose NE";"";NA;NA;"J";64
+"36";"J65";"";"Pneumoconiose associada com tuberculose";"J65   Pneumoconiose assoc c/tuberc";"";NA;NA;"J";65
+"37";"J68";"";"Afecções respiratórias devidas a inalação de produtos químicos, gases, fumaças e vapores";"J68   Afecc resp dev inal prod quim gas fumac vap";"";NA;NA;"J";68
+"38";"J69";"";"Pneumonite devida a sólidos e líquidos";"J69   Pneumonite dev solidos e liquidos";"";NA;NA;"J";69
+"39";"J70";"";"Afecções respiratórias devida a outros agentes externos";"J70   Afeccoes respirat dev outr agentes externos";"";NA;NA;"J";70
+"40";"J80";"";"Síndrome do desconforto respiratório do adulto";"J80   Sindr do desconforto respirat do adulto";"";NA;NA;"J";80
+"41";"J81";"";"Edema pulmonar, não especificado de outra forma";"J81   Edema pulmonar NE de outr form";"";NA;NA;"J";81
+"42";"J82";"";"Eosinofilia pulmonar, não classificada em outra parte";"J82   Eosinofilia pulmonar NCOP";"";NA;NA;"J";82
+"43";"J84";"";"Outras doenças pulmonares intersticiais";"J84   Outr doenc pulmonares intersticiais";"";NA;NA;"J";84
+"44";"J85";"";"Abscesso do pulmão e do mediastino";"J85   Abscesso do pulmao e do mediastino";"";NA;NA;"J";85
+"45";"J86";"";"Piotórax";"J86   Piotorax";"";NA;NA;"J";86
+"46";"J90";"";"Derrame pleural não classificado em outra parte";"J90   Derrame pleural NCOP";"";NA;NA;"J";90
+"47";"J91";"*";"Derrame pleural em afecções classificadas em outra parte";"J91   Derrame pleural em afeccoes COP";"";NA;NA;"J";91
+"48";"J92";"";"Placas pleurais";"J92   Placas pleurais";"";NA;NA;"J";92
+"49";"J93";"";"Pneumotórax";"J93   Pneumotorax";"";NA;NA;"J";93
+"50";"J94";"";"Outras afecções pleurais";"J94   Outr afeccoes pleurais";"";NA;NA;"J";94
+"51";"J95";"";"Afecções respiratórias pós-procedimentos não classificadas em outra parte";"J95   Afeccoes respirat pos-proced NCOP";"";NA;NA;"J";95
+"52";"J96";"";"Insuficiência respiratória não classificada de outra parte";"J96   Insuf respirat NCOP";"";NA;NA;"J";96
+"53";"J98";"";"Outros transtornos respiratórios";"J98   Outr transt respirat";"";NA;NA;"J";98
+"54";"J99";"*";"Transtornos respiratórios em doenças classificadas em outra parte";"J99   Transt respirat em doenc COP";"";NA;NA;"J";99
